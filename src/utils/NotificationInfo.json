@@ -2,7 +2,7 @@
     {
         "Id": 1,
         "Name": "Mark Webber",
-        "Image": "../../public/images/avatar-mark-webber.webp",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/cinepolis-hosting.appspot.com/o/avatar-mark-webber.webp?alt=media&token=0aa25aeb-501f-4a0e-b1c3-0aa3fb739e22",
         "Action": "reacted to your recent post ",
         "Content": "My first tournament today!",
         "Group": "",
@@ -12,7 +12,7 @@
     {
         "Id": 2,
         "Name": "Angela Gray",
-        "Image": "../../public/images/avatar-angela-gray.webp",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/cinepolis-hosting.appspot.com/o/avatar-angela-gray.webp?alt=media&token=9b016325-22f8-4712-9b54-d7e946d6fcb8",
         "Action": "followed you",
         "Content": "",
         "Group": "",
@@ -22,7 +22,7 @@
     {
         "Id": 3,
         "Name": "Jacob Thompson",
-        "Image": "../../public/images/avatar-jacob-thompson.webp",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/cinepolis-hosting.appspot.com/o/avatar-jacob-thompson.webp?alt=media&token=b732b905-575c-4d90-a6cd-4447d5067502",
         "Action": "has joined your group ",
         "Content": "",
         "Group": "Chess Club",
@@ -32,7 +32,7 @@
     {
         "Id": 4,
         "Name": "Rizky Hasanuddin",
-        "Image": "../../public/images/avatar-rizky-hasanuddin.webp",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/cinepolis-hosting.appspot.com/o/avatar-rizky-hasanuddin.webp?alt=media&token=8456db3e-8f92-4e6a-924e-93c3dc981921",
         "Action": "sent you a private message ",
         "Content": "",
         "Group": "",
@@ -43,18 +43,18 @@
     {
         "Id": 5,
         "Name": "Kimberly Smith",
-        "Image": "../../public/images/avatar-kimberly-smith.webp",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/cinepolis-hosting.appspot.com/o/avatar-kimberly-smith.webp?alt=media&token=fd16b3d8-d7e2-49db-8bdc-894f81f3f6e3",
         "Action": "commented on your picture ",
         "Content": "",
         "Group": "",
         "Time": "1 week ago",
-        "ImagePost": "../../public/images/image-chess.webp",
+        "ImagePost": "https://firebasestorage.googleapis.com/v0/b/cinepolis-hosting.appspot.com/o/image-chess.webp?alt=media&token=b556712e-0250-4003-94cf-7e78f1b4a57f",
         "isReaded": true
     },
     {
         "Id": 6,
         "Name": "Nathan Peterson",
-        "Image": "../../public/images/avatar-nathan-peterson.webp",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/cinepolis-hosting.appspot.com/o/avatar-nathan-peterson.webp?alt=media&token=d0678a7e-2abb-4343-94b3-f787d2049161",
         "Action": "reacted to your recent post ",
         "Content": "5 end-game strategies to increase your win rate",
         "Group": "",
@@ -64,7 +64,7 @@
     {
         "Id": 7,
         "Name": "Anna Kim",
-        "Image": "../../public/images/avatar-anna-kim.webp",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/cinepolis-hosting.appspot.com/o/avatar-anna-kim.webp?alt=media&token=80ed78bb-5a91-4578-b278-b7327ec0437d",
         "Action": "left the group ",
         "Content": "",
         "Group": "Chess Club",
