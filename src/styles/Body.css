@@ -1,0 +1,115 @@
+.body {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 1440px;
+}
+
+.notification {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.notification-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--White);
+  padding: 5px;
+}
+
+.notification-unreaded {
+  display: flex;
+  align-items: center;
+  background-color: var(--Very-light-grayish-blue);
+  padding: 5px;
+}
+
+.notification_image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.notification_image img {
+  width: 40px;
+}
+
+.notification_content {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.notification_content-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.notification_content-container p {
+  cursor: pointer;
+}
+
+.notification_content p {
+  color: var(--Dark-grayish-blue);
+}
+
+.notification_user {
+  color: black;
+  font-weight: bold;
+}
+
+.notification_user:hover {
+  color: var(--Blue);
+}
+
+.notification_post {
+  font-weight: bold;
+}
+
+.notification_post:hover {
+  color: var(--Blue);
+}
+
+.notification_group {
+  color: var(--Blue);
+  font-weight: 800;
+}
+
+.notification_time {
+  align-self: stretch;
+}
+
+.notification_message {
+  border: 1px solid var(--Grayish-blue);
+  width: 80%;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.notification_message:hover {
+  border: 1px solid var(--Light-grayish-blue-1);
+  background-color: var(--Light-grayish-blue-1);
+}
+
+.badge {
+  border-radius: 100%;
+  background-color: var(--Red);
+  width: 7px;
+  height: 7px;
+}
+
+.hidden {
+  display: none;
+}
+
+.notification_image-post {
+  cursor: pointer;
+}
+
+.notification_image-post img {
+  width: 80%;
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "Id": 1,
+        "Name": "Mark Webber",
+        "Image": "../../public/images/avatar-mark-webber.webp",
+        "Action": "reacted to your recent post ",
+        "Content": "My first tournament today!",
+        "Group": "",
+        "Time": "1m ago",
+        "isReaded": false
+    },
+    {
+        "Id": 2,
+        "Name": "Angela Gray",
+        "Image": "../../public/images/avatar-angela-gray.webp",
+        "Action": "followed you",
+        "Content": "",
+        "Group": "",
+        "Time": "5m ago",
+        "isReaded": false
+    },
+    {
+        "Id": 3,
+        "Name": "Jacob Thompson",
+        "Image": "../../public/images/avatar-jacob-thompson.webp",
+        "Action": "has joined your group ",
+        "Content": "",
+        "Group": "Chess Club",
+        "Time": "1 day ago",
+        "isReaded": false
+    },
+    {
+        "Id": 4,
+        "Name": "Rizky Hasanuddin",
+        "Image": "../../public/images/avatar-rizky-hasanuddin.webp",
+        "Action": "sent you a private message ",
+        "Content": "",
+        "Group": "",
+        "Time": "5 days ago",
+        "Message": "Hello, thanks for setting up the Chess Club. I 've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+        "isReaded": true
+    },
+    {
+        "Id": 5,
+        "Name": "Kimberly Smith",
+        "Image": "../../public/images/avatar-kimberly-smith.webp",
+        "Action": "commented on your picture ",
+        "Content": "",
+        "Group": "",
+        "Time": "1 week ago",
+        "ImagePost": "../../public/images/image-chess.webp",
+        "isReaded": true
+    },
+    {
+        "Id": 6,
+        "Name": "Nathan Peterson",
+        "Image": "../../public/images/avatar-nathan-peterson.webp",
+        "Action": "reacted to your recent post ",
+        "Content": "5 end-game strategies to increase your win rate",
+        "Group": "",
+        "Time": "2 weeks ago",
+        "isReaded": true
+    },
+    {
+        "Id": 7,
+        "Name": "Anna Kim",
+        "Image": "../../public/images/avatar-anna-kim.webp",
+        "Action": "left the group ",
+        "Content": "",
+        "Group": "Chess Club",
+        "Time": "2 weeks ago",
+        "isReaded": true
+    }
+]

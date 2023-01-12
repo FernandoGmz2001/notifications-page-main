@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1440px;
+  padding: 20px 0px;
+}
+
+.header_notifications {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.notificationBadge {
+  padding: 2px 6px;
+  border-radius: 5px;
+  background-color: var(--Blue);
+}
+
+.notificationBadge p {
+  font-weight: 500;
+  color: white;
+}
+
+.header_markAsRead a {
+  cursor: pointer;
+  border: none;
+  color: var(--Dark-grayish-blue);
+  text-decoration: none;
+}
+
+.header_markAsRead a:hover {
+  color: var(--Blue);
+}
