@@ -27,7 +27,9 @@ function Notification({
               <span className="notification_post">{Content}</span>
               <span className="notification_group">{Group}</span>
             </p>
-            {isReaded ? null : <RedBadge />}
+            <div className="badge-container">
+              {isReaded ? null : <RedBadge />}
+            </div>
           </div>
           <div className="notification_time">
             <p>{Time}</p>
